@@ -14,5 +14,6 @@ Here is a step-by-step code repository:
 4. EDA before Time Series
 5. Time Series Visuals
 6. Pearson Correlation
+7. Regression and Granger causality test
 
 NOTE: The Python VSCode environment may not allow certain transformer modules. If such a problem occurs, please use an alternative code environment such as Google Colab. Also, the code serves as a basic framework for reproduction; therefore, procedures such as merging the datasets or re-ordering the columns of the dataframes are not available.
